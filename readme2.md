@@ -6,7 +6,7 @@
 [This is a link to google](https://www.google.com/)
 
 
-[This is a link between markdown pages](../Module-2/edit/master/README.md)  
+[This is a link between markdown pages](../Module-2/master/README.md)  
 [Here is a picture from the repo]()  
 
 ![Here is a picture from the web](https://goo.gl/images/iGB4L6)  

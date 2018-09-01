@@ -9,7 +9,7 @@
 [This is a link between markdown pages]()  
 [Here is a picture from the repo]()  
 
-[Here is a picture from the web](https://imgur.com/a/THXaCUF)  
+![Here is a picture from the web](https://imgur.com/a/THXaCUF)  
 
  
 ```python

@@ -9,7 +9,7 @@
 [This is a link between markdown pages](https://github.com/lvanderbeck/Module-2/blob/master/README.md)  
 ![Here is a picture from the repo](https://github.com/lvanderbeck/Module-2/blob/master/qg25ztl15as01.jpg)  
 
-![Here is a picture from the web](https://goo.gl/images/iGB4L6)  
+![Here is a picture from the web](https://cdn.pixabay.com/photo/2018/08/06/19/03/hand-3588162_960_720.jpg)  
 
  
 ```python

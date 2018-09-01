@@ -6,8 +6,8 @@
 [This is a link to google](https://www.google.com/)
 
 
-[This is a link between markdown pages](../Module-2/dev/readme2.md)  
-[Here is a picture from the repo]()  
+[This is a link between markdown pages](../Module-2/blob/dev/readme2.md)  
+[Here is a picture from the repo](../Module-2/blob/master/qg25ztl15as01.jpg)  
 
 ![Here is a picture from the web](https://goo.gl/images/iGB4L6)  
 
